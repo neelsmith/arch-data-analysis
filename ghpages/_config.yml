@@ -1,0 +1,22 @@
+
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            "Archaeological Data Analysis, S'20"
+tagline:          ''
+description:      'Archaeological Data Analysis'
+
+url: http://shot.holycross.edu/courses/ada/S20/
+
+
+
+
+
+links:
+  - title: Home
+    url: /
+  - title: Instructor
+    url: http://neelsmith.info/holycross/contact/
+    external: true
