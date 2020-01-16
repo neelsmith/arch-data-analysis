@@ -13,5 +13,11 @@ totalWeeks : 15
 fixedDates:
   - 2020-03-03 == Spring break
   - 2020-03-05 == Spring break
-  - 2020-04-09 == Easter break
   - 2020-05-05 == Exams begin
+  - 2020-04-21 == Academic conference on Wednesday
+  - 2020-01-30 == [Module 1](../projects/module1) due on Friday
+  - 2020-02-18 == [Module 2](../projects/module2) due on Monday
+  - 2020-02-27 == Module 3 due on Friday
+  - 2020-03-19 == Module 4 due on Friday
+  - 2020-04-07 == Tuesday, last day to submit revisions of modules 1-4.
+  - 2020-04-09 == Thursday, Easter break.

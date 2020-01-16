@@ -1,0 +1,66 @@
+
+## Introduction: describing archaeological data
+
+[What is archaeological data analysis?](../assignments/intro)#
+[Managing digital data](../assignments/managing)#**Bring your laptop to class** on Thursday
+
+[The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging)
+[Describing the contents of *OCRE*](summarize_OCRE)#
+
+## Working with legacy data
+
+[Beazley's *Attic Black-Figure Vase Painters* and *Attic Red-Figure Vase Painters*](../assignments/beazley)#
+[Class field trip to WAM](../assignments/wam)#
+
+[Introduction to geographic information systems](../gis)#
+[Composite data for Attic vase distribution](../assigments/vase_composites)#
+
+## Another
+
+[Team cataloging assignment](../assignments/catalogingteams)
+Formulating initial research questions
+
+
+Research instruments on `nomisma.org`
+(No class)
+
+
+### Spring break
+
+*Spring break*
+*Spring break*
+
+
+## More complex spatial patterning
+
+Review of cataloging from Monday#Monday: cataloging in WAM
+[Formulation of a research question](../research-statement)
+
+
+[Analyzing data with OCRE](../assignments/analyzing_ocre)
+[Archaic and Classical Greek coinage](../assignments/greek1)
+
+## Spatial consistency
+
+
+*IGCH*
+Visualizing coin hoards
+
+[Hellenistic coinage](../assignments/hellenistic)
+Open and closed systems in Hellenistic coin hoards
+
+Topic before easter...#
+*Easter break*
+
+## Feature clustering
+
+Analyzing ICGH with Tableau
+Catalog review#Push final catalog
+
+## Project presentation and review
+
+TBA#
+TBA
+
+TBA
+TBA

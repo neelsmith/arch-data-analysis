@@ -6,14 +6,10 @@ layout: page
 
 Instructor: Neel Smith ([contact information](http://neelsmith.info/holycross/contact/))
 
-Regular class schedule:TBA.
+Regular class schedule:  TTh 2:00-3:15, Fenwick 420.
 
 
-
-
-
-## Course material
-
--  Jupyter notebooks for course assignments: clone [this repository](), or run in your web browser [on mybinder.org](https://mybinder.org/v2/gh/neelsmith/arch-data-analysis-ipynb/master) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neelsmith/arch-data-analysis-ipynb/master)
--  Jupyter notebooks introducing "just enough Scala" on [mybinder.org](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master)
+- syllabus
+- class schedule
+- course requirements and grading
+- course material and other resources
