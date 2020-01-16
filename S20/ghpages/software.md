@@ -16,11 +16,16 @@ layout: page
 
 - QGIS: <https://www.qgis.org/>
 
+## Scripting/programming
+
+- Java Development Kit (JDK), version 11: <https://adoptopenjdk.net/>
+- sbt:  <https://www.scala-sbt.org/>
+
 ## Working with Jupyter notebooks
 
 ### Option 1: on your laptop
 
-- Java Development Kit (JDK), version 11: <https://adoptopenjdk.net/>
+
 - Almond kernel for Scala https://almond.sh/
 - At least one of:
     - nteract <https://nteract.io/>
