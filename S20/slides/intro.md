@@ -1,4 +1,0 @@
-
-Use fusuma for slides.
-
----
