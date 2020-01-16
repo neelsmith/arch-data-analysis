@@ -19,3 +19,8 @@ Within each slideshow subdir,  one-time install:
 Then, anytime,
 
     npx fusuma start
+
+
+Build pdf of syllabus data:
+
+    pandoc -s -o syllabus.pdf _syllabus.md [0-9]*md

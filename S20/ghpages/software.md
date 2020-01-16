@@ -6,30 +6,30 @@ layout: page
 
 ## Basic software for managing digital data
 
-- Atom text editor: <https://atom.io/>
-- bash shell:
+- a hackable text editor, Atom: <https://atom.io/>
+- a shell for interacting with your operating system, bash:
     - OS X: use Terminal app in the Applications/Utitilies folder
     - Windows:  gitbash comes with the Windows installation of git <https://git-scm.com/>
-- git: <https://git-scm.com/>
+- a version control system, git: <https://git-scm.com/>
 
 ## Software for spatial visualization and analysis
 
-- QGIS: <https://www.qgis.org/>
+- a geographic information system, QGIS: <https://www.qgis.org/>
 
 ## Scripting/programming
 
-- Java Development Kit (JDK), version 11: <https://adoptopenjdk.net/>
-- sbt:  <https://www.scala-sbt.org/>
+- a programming language environment, the Java Development Kit (JDK), version 11: <https://adoptopenjdk.net/>
+- a build tool, sbt:  <https://www.scala-sbt.org/>
 
 ## Working with Jupyter notebooks
 
 ### Option 1: on your laptop
 
 
-- Almond kernel for Scala https://almond.sh/
+- a Jupyter kernel, the Almond kernel for Scala: <https://almond.sh/>
 - At least one of:
-    - nteract <https://nteract.io/>
-    - the hydrogen plugin for Atom: <https://atom.io/packages/hydrogen>
+    - a stand-alone app for interacting with a Jupyter kernel, nteract: <https://nteract.io/>
+    - a plugin for interacting with a Jupyter kernel in Atom, hydrogen: <https://atom.io/packages/hydrogen>
 
 
 ### Option 2:  in a virtual environment with docker

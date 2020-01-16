@@ -3,6 +3,9 @@ layout: page
 title: "Introduction to geographic information systems (GIS)"
 ---
 
+
+Install QGIS:  <https://www.qgis.org/>
+
 Spatial data  ->
 
 - spatial visualization
