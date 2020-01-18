@@ -23,7 +23,7 @@ title: "Archaeological Data Analysis, S'20: course schedule"
 
 | Week | Tues | Thurs     |     Notes  |
 | :------------- |:------------- | :------------- |:------------- |
-|Feb. 18-Feb. 20 | Ptolemy's *Geography* | Scaling and aligning Ptolemy's data |   |
+|Feb. 18-Feb. 20 | Ptolemy's *Geography* | Scaling and aligning Ptolemy's data |  **Thursday**: Jim Cahill (Ed Tech) available for tech help with Jupyter notebooks. |
 |Feb. 25-Feb. 27 | Identifying spatial outliers | Measuring settlement density | **Module 3 due on Friday**  |
 
 

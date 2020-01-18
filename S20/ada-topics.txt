@@ -18,7 +18,7 @@
 ## Textual sources and spatial analysis (Ptolemy's catalog of the world)
 
 Ptolemy's *Geography*
-Scaling and aligning Ptolemy's data
+Scaling and aligning Ptolemy's data#**Thursday**: Jim Cahill (Ed Tech) available for tech help with Jupyter notebooks.
 
 Identifying spatial outliers
 Measuring settlement density
