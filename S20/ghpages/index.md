@@ -11,6 +11,8 @@ Regular class schedule:  TTh 2:00-3:15, Fenwick 420.
 ## Course material
 
 - [class schedule](schedule/)
+- [lab modules](labs/)
+- [oral presentations](presentations/)
 - [course material and other resources](resources/)
 
 

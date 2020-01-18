@@ -11,15 +11,15 @@ Course grades will be determined by specification grading, an assessment system 
 ### Grade specifications
 
 
-| Lab module 1                                                                     | Other lab modules            | Oral presentation   | Project module          | Project presentation         | Base course grade |
-|:---------------------------------------------------------------------------------|:-----------------------------|:--------------------|:------------------------|:-----------------------------|:------------------|
-| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | -                            | -                   | -                       | -                            | C                 |
-| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **1** additional module  | -                   | -                       | -                            | C+                |
-| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **1** additional module  | 1 oral presentation | -                       | -                            | B-                |
-| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **2** additional modules | 1 oral presentation | -                       | -                            | B                 |
-| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **3** additional module  | 1 oral presentation | -                       | -                            | B+                |
-| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **3** additional modules | 1 oral presentation | Complete project module | -                            | A-                |
-| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **3** additional modules | 1 oral presentation | Complete project module | Oral presentation of project | A                 |
+| Lab module 1                                                                 | Other lab modules            | Oral presentation   | Project module          | Project presentation         | Base course grade |
+|:-----------------------------------------------------------------------------|:-----------------------------|:--------------------|:------------------------|:-----------------------------|:------------------|
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/labs/module1/) | -                            | -                   | -                       | -                            | C                 |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/labs/module1/) | any **1** additional module  | -                   | -                       | -                            | C+                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/labs/module1/) | any **1** additional module  | 1 oral presentation | -                       | -                            | B-                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/labs/module1/) | any **2** additional modules | 1 oral presentation | -                       | -                            | B                 |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/labs/module1/) | any **3** additional module  | 1 oral presentation | -                       | -                            | B+                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/labs/module1/) | any **3** additional modules | 1 oral presentation | Complete project module | -                            | A-                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/labs/module1/) | any **3** additional modules | 1 oral presentation | Complete project module | Oral presentation of project | A                 |
 
 
 For details on lab modules:  <http://shot.holycross.edu/courses/ada/S20/labs/>
