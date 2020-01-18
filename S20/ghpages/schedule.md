@@ -8,7 +8,7 @@ title: "Archaeological Data Analysis, S'20: course schedule"
 | Week | Tues | Thurs     |     Notes  |
 | :------------- |:------------- | :------------- |:------------- |
 |Jan. 21-Jan. 23 | [What is archaeological data analysis?](../assignments/intro) | [Managing digital data](../assignments/managing) |  **Bring your laptop to class** on Thursday |
-|Jan. 28-Jan. 30 | [The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging) | [Describing the contents of *OCRE*](summarize_OCRE) | **[Module 1](../projects/module1) due on Friday**  |
+|Jan. 28-Jan. 30 | [The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging) | [Describing the contents of *OCRE*](summarize_OCRE) | **[Module 1](../labs/module1) due on Friday**  |
 
 
 ## Working with legacy data (Greek painted pottery)
@@ -16,7 +16,7 @@ title: "Archaeological Data Analysis, S'20: course schedule"
 | Week | Tues | Thurs     |     Notes  |
 | :------------- |:------------- | :------------- |:------------- |
 |Feb. 4-Feb. 6 | [Beazley's *Attic Black-Figure Vase Painters* and *Attic Red-Figure Vase Painters*](../assignments/beazley) | [Class field trip to WAM](../assignments/wam) |   |
-|Feb. 11-Feb. 13 | [Introduction to geographic information systems](../gis) | [Analyzing composite data for Attic vase distribution](../assigments/vase_composites) | **[Module 2](../projects/module2) due on Monday, Feb. 17**  |
+|Feb. 11-Feb. 13 | [Introduction to geographic information systems](../gis) | [Analyzing composite data for Attic vase distribution](../assigments/vase_composites) | **[Module 2](../labs/module2) due on Monday, Feb. 17**  |
 
 
 ## Textual sources and spatial analysis (Ptolemy's catalog of the world)
