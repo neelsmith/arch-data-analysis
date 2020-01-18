@@ -22,6 +22,12 @@ Course grades will be determined by specification grading, an assessment system 
 | Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **3** additional modules | 1 oral presentation | Complete project module | Oral presentation of project | A                 |
 
 
+For details on lab modules:  <http://shot.holycross.edu/courses/ada/S20/labs/>
+
+For details on oral presentations: <http://shot.holycross.edu/courses/ada/S20/presentations/>
+
+For details on self-designed projects: <http://shot.holycross.edu/courses/ada/S20/projects/>
+
 ## Class attendance
 
 Class attendance is required. You will not be penalized for a single unexcused absence, but beginning with the second unexcused absence,  your course grade will be lowered by 1/3 of a letter grade for each unexcused absence.
