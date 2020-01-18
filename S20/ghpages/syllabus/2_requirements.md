@@ -1,19 +1,27 @@
 ---
 layout: page
-title: "Course requirements and grading"
+title: "Archaeological Data Analysis, S'20"
 ---
 
-Complete module 1: C
-Complete 2 modules, and 1 oral presentation (module 1 + any 1 other): B-
-Complete 3 modules, and 1 oral presentation (module 1 + any 2 others): B
-Complete 4 modules, and 1 oral presentation (module 1 + any 3 others): B+
+## Course requirements and grading
 
-Complete module 1 + any 3 others + 1 oral presentation + project module: A-
+Course grades will be determined by specification grading, an assessment system in which assignments are graded on a satisfactory/unsatisfactory scale according to a previously circulated rubric.  One aim of specification grading is to give you control over your grades. Grades are not arbitrarily assigned – they are earned by the work that you do. Further, you get to decide how much time and energy you want to commit to the course in order to achieve the grade you desire.
 
-Complete module 1 + any 3 others + 1 oral presentation + project module + oral presentation of project: A
+
+### Grade specifications
+
+
+| Lab module 1                                                                     | Other lab modules            | Oral presentation   | Project module          | Project presentation         | Base course grade |
+|:---------------------------------------------------------------------------------|:-----------------------------|:--------------------|:------------------------|:-----------------------------|:------------------|
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | -                            | -                   | -                       | -                            | C                 |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **1** additional module  | -                   | -                       | -                            | C+                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **1** additional module  | 1 oral presentation | -                       | -                            | B-                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **2** additional modules | 1 oral presentation | -                       | -                            | B                 |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **3** additional module  | 1 oral presentation | -                       | -                            | B+                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **3** additional modules | 1 oral presentation | Complete project module | -                            | A-                |
+| Complete [module 1](http://shot.holycross.edu/courses/ada/S20/projects/module1/) | any **3** additional modules | 1 oral presentation | Complete project module | Oral presentation of project | A                 |
+
 
 ## Class attendance
 
-1 unexcused absence
-
-Each additional unexcused absence lowers course grade by 1/3 of a letter grade.
+Class attendance is required. You will not be penalized for a single unexcused absence, but beginning with the second unexcused absence,  your course grade will be lowered by 1/3 of a letter grade for each unexcused absence.
