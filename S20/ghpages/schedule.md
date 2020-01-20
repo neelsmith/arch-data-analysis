@@ -7,7 +7,7 @@ title: "Archaeological Data Analysis, S'20: course schedule"
 
 | Week | Tues | Thurs     |     Notes  |
 | :------------- |:------------- | :------------- |:------------- |
-|Jan. 21-Jan. 23 | [What is archaeological data analysis?](../assignments/intro) | [Managing digital data](../assignments/managing) |  **Bring your laptop to class** on Thursday |
+|Jan. 21-Jan. 23 | What is archaeological data analysis? | [Managing digital data](../assignments/managing) |  **Bring your laptop to class** on Thursday |
 |Jan. 28-Jan. 30 | [The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging) | [Describing the contents of *OCRE*](summarize_OCRE) | **[Module 1](../labs/module1) due on Friday**  |
 
 

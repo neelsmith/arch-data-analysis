@@ -21,5 +21,5 @@ Regular class schedule:  TTh 2:00-3:15, Fenwick 420.
 
 - course [requirements and grading](syllabus/2_requirements/)
 - syllabus, as:
-    - a single pdf (printable, but also includes live links)
+    - a [single pdf](syllabus/syllabus.pdf) (printable, but also includes live links)
     - [a web page](syllabus/)

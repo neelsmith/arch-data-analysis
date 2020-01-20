@@ -3,10 +3,22 @@ layout: page
 title: "Managing digital data"
 ---
 
-Review requirements and criteria from prior class.  Implications:
-
-
 ## Before coming to class
+
+
+### Reading
+
+Review your notes from discussion in our first class, and read:
+
+1.  pp. 11-15 in Renfrew and Bahn, *Archaeology Essentials*
+2.  the nine "Principles of Archaeological Ethics" defined by the Society for American Archaeology (online [here](https://www.saa.org/career-practice/ethics-in-professional-archaeology)).
+
+How do these nine principles derive from the specific nature of archaeology?
+
+
+
+### Prepare your computer
+
 
 Download and install these three fundamental applications:
 

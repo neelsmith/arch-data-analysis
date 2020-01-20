@@ -1,8 +1,16 @@
 import edu.holycross.shot.coursecal._
-
-val sched = Schedule("ada-topics.txt", "ada.yaml")
-val md = sched.markdownCalendar
-
 import java.io.PrintWriter
 
-new PrintWriter("ghpages/schedule.md") { write(md); close }
+
+
+def schedule = {
+  val pg = "ghpages/schedule.md"
+  val sched = Schedule("ada-topics.txt", "ada.yaml")
+  val md = sched.markdownCalendar
+  new PrintWriter(pg) { write(md); close }
+  println("Schedule written to " + pg)
+}
+
+
+println("\nWrite a new schedule to ghpages directory:")
+println("\tschedule")

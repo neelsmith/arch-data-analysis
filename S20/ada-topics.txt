@@ -1,7 +1,7 @@
 
 ## Introduction: describing archaeological data (Roman imperial coins)
 
-[What is archaeological data analysis?](../assignments/intro)#
+What is archaeological data analysis?#
 [Managing digital data](../assignments/managing)#**Bring your laptop to class** on Thursday
 
 [The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging)
