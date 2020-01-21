@@ -2,3 +2,7 @@ blockquote {
   font-weight: bold;
   font-style: italic;
 }
+
+img {
+  max-height: 95%;
+}
