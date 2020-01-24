@@ -4,4 +4,10 @@ title: "Self-designed projects"
 ---
 
 
-TBA
+Full rubric will be added later. Basic outline:
+
+- topic approved
+- identify source material
+- clean and evaluate data
+- analytical method identified
+- results presented in published Jupyter notebook

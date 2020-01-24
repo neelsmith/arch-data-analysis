@@ -4,7 +4,7 @@ title: "Background to Roman Imperial Coinage data set"
 ---
 
 
-Read selection from Andrew Burnett, *Coinage in the Roman World* (available on Moodle beginning on Friday).
+Read selection from Andrew Burnett, "Circulation and function" (chapter 5 of Andrew Burnett, *Coinage in the Roman World*), available on Moodle.
 
 Skim Chapter 7 of Renfrew and Bahn, "How Were Artifacts Made, Used and Distributed?"  How do the ideas introduced in this chapter in this chapter apply to coins?
 
