@@ -4,8 +4,8 @@
 What is archaeological data analysis?#
 [Managing digital data](../assignments/managing)#**Bring your laptop to class** on Thursday
 
-[The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/cataloging)
-[Describing the contents of *OCRE*](summarize_OCRE)#
+[The *Roman Imperial Coinage* data set and *Online Coins of the Roman Empire*](../assignments/ric)
+[Describing the contents of *OCRE*](../assignments/summarize_OCRE)#
 
 ## Working with legacy data (Greek painted pottery)
 
