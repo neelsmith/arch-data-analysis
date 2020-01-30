@@ -3,14 +3,16 @@ layout: page
 title: "The Roman Imperial Coinage data set"
 ---
 
-For each property of a coin:
 
-coin distinct values and number of occurrences for each
+In today's class, we will work through the first lab assignment.  (See [these instructions](http://shot.holycross.edu/courses/ada/S20/labs/module1/).)
 
-null/missing data?
+In brief, you will:
 
-data artifacts from:
+- complete the incoimplete parts of a Jupyter analyzing Roman imperial coin issues
 
-- digitization?
-- inconsistency in legacy print source?
-- editorial errors?
+The questions we will address are the same kinds of questions you will ask about every collection of data:
+
+- how are records organized: what properties are recorded for each object?
+- what values do we find for each property?  How many distinct values occur, and how frequently?
+- are there missing values or data, or identifiable errors?  
+- can we determine where errors come from? are they errors in digitizing a print source, do they result from inconsistency in a print source, or errors in editorial judgment?

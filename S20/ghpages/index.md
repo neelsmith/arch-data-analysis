@@ -11,9 +11,9 @@ Regular class schedule:  TTh 2:00-3:15, Fenwick 420.
 
 ## Announcements and reminders
 
-- Selections from [slides used in class](slides/)
+
+- **New Jupyter notebook** in introductory Scala series:  [grouping the contents of Vectors](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master?filepath=nbs%2Fgroupby.ipynb)
 - Reminder:  before completing module 1, create an account on github, and send me your account name in an email  (subject line: `github name`).  Then create a repository named `clas299`.
-- Jupyter notebooks introducing Scala:  on [mybinder.org](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master)
 - Partners for modules 2-5:  if you have a preference, please let me know by the end of week 2 (Fri., Jan. 31).
 
 ## Course material
@@ -23,6 +23,9 @@ Regular class schedule:  TTh 2:00-3:15, Fenwick 420.
 - [oral presentations](presentations/)
 - [projects](projects/)
 - [course material and other resources](resources/)
+- selections from [slides used in class](slides/)
+- Jupyter notebooks introducing Scala:  on [mybinder.org](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master)
+
 
 
 ## Course administration
