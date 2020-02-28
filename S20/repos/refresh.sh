@@ -21,7 +21,7 @@ for REPONAME in $(cat repos.txt) ; do
     (cd $ROOT/$REPONAME && $GIT clone $REPOPATH)
   else
     echo "Pulling in " $ROOT/$DIR
-    (cd $ROOT/$REPONAME && $GIT pull)
+    (cd $ROOT/$REPONAME/clas299 && $GIT pull)
   fi
   cd $ROOT
 done;
