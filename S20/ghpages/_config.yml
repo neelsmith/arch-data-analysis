@@ -19,8 +19,12 @@ links:
     url: /
   - title: Schedule
     url: /schedule
+  - title: Videos
+    url: /videos
   - title: Software
-    url: /software          
+    url: /software
+  - title: Syllabus
+    url: /syllabus
   - title: Instructor
     url: http://neelsmith.info/holycross/contact/
     external: true

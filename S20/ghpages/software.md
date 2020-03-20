@@ -4,6 +4,19 @@ layout: page
 ---
 
 
+## Communications during part 2 of the course
+
+During the distance-learning phase of the course, we will use:
+
+- GroupMe for group messaging (optional):  you can [sign up for a class GroupMe here](https://web.groupme.com/join_group/58665869/1UrCvBEg)
+- Google Meet for conferencing: use [this link](https://meet.google.com/ojf-hqdm-hif) to join class Google Meets.
+
+Before you do, please check out:
+
+- [overview of participating in a Google Meet](../connect-to-meet/)
+- [Google Meet etiquette](../connect-to-meet/etiquette/)
+
+
 ## Basic software for managing digital data
 
 - a hackable text editor, Atom: <https://atom.io/>

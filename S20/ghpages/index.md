@@ -4,31 +4,35 @@ layout: page
 ---
 
 
-Instructor: Neel Smith ([contact information](http://neelsmith.info/holycross/contact/))
+Instructor: Neel Smith (revised [contact information, including link to **drop-in hours**](http://neelsmith.info/holycross/contact/))
 
-Regular class schedule:  TTh 2:00-3:15, Fenwick 420.
 
 
 ## Announcements and reminders
 
-- New Jupyter notebook: [plotting bar charts](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master?filepath=nbs%2Fplotting-bar-charts.ipynb)
-- Partners for modules 2-5:  if you have a preference, please let me know by the end of week 2 (Fri., Jan. 31).
+- welcome back! please view this short video message from Prof. Smith
+- first group meeting using Google Meet: Tuesday, March 24. Before joining the meet, please check out:
+    - overview of [participating in a Google Meet](connect-to-meet/)
+    - [Google Meet etiquette](connect-to-meet/etiquette/)
+- revised information about group work and projects will be available on **Tuesday, March 24**.
+- the college is looking at options for P/NP grading this semester. Stay in touch for updated information.
+
 
 ## Course material
 
-- [class schedule](schedule/)
-- [lab modules](labs/)
-- [oral presentations](presentations/)
-- [projects](projects/)
-- [course material and other resources](resources/)
-- selections from [slides used in class](slides/)
-- Jupyter notebooks introducing Scala:  on [mybinder.org](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master)
+- revised syllabus (including revised course requirements and grading specifications)
+- schedule. Class days labelled group meet will be times for all of us to use the Google Meet link below for a brief meet up. Class days labelled drop-in workshop will use the scheduled 9:30-10:45 time slot as optional Google Meets where you may bring questions and we can work together on assignments you’re working on.
+
+
+## Staying in contact
+
+### Scheduled Google Meets
+
+- link for [class meetings](https://meet.google.com/yve-ibgc-dds) (group meets and drop-in workshops during regular TTh 2:00-3:15 time slot)
+- link for [drop-in hours](https://meet.google.com/pma-avfd-bzj) (M-Th, 3:00-4:00 eastern times). If you don’t have internet access, you can drop in by audio from this phone number +1 786-408-0970, plus the 9-digit PIN: 129 652 992.
 
 
 
-## Course administration
+### GroupMe
 
-- course [requirements and grading](syllabus/2_requirements/)
-- syllabus, as:
-    - a [single pdf](syllabus/syllabus.pdf) (printable, but also includes live links)
-    - [a web page](syllabus/)
+- you can [sign up for a class GroupMe here](https://web.groupme.com/join_group/58665869/1UrCvBEg) (optional)
