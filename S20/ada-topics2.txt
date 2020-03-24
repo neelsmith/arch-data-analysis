@@ -1,0 +1,35 @@
+## Transition week
+
+*No class*
+*No class*
+
+
+## Ptolemy's *Geography*
+
+
+[Building a github web site](../assignments/ghpages/) (group meet)
+[Interpreting longitude-latitude in Ptolemy's *Geography*](../assignments/ptolemy-workshop/) (drop-in workshop)
+
+## Spatial networks (Greek coin hoards)
+
+The *Inventory of Greek Coin Hoards* (group meet)
+Mapping coin hoards with Google Earth (drop-in workshop)
+
+## Clustering data
+
+Designing a course project (group meet)
+
+
+*Easter break*
+
+Using topic modelling to cluster data (group meet)
+Pompeiian rooms as archaeological contexts (drop-in workshop)
+
+
+
+Workshop projects
+Workshop projects
+
+
+Sharing work in progress (group meet)
+Course overview: discussion (group meet)

@@ -14,7 +14,7 @@ title: "Archaeological Data Analysis, S'20: course schedule"
 
 | Week | Tues | Thurs     |     Notes  |
 | :------------- |:------------- | :------------- |:------------- |
-|Mar. 24-Mar. 26 | [Building a github web site](../assignments/ghpages/) (group meet) | Density and precision in Ptolemy's *Geography* (drop-in workshop) |   |
+|Mar. 24-Mar. 26 | [Building a github web site](../assignments/ghpages/) (group meet) | [Interpreting longitude-latitude in Ptolemy's *Geography*](../assignments/ptolemy-workshop/) (drop-in workshop) |   |
 
 
 ## Spatial networks (Greek coin hoards)

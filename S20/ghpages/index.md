@@ -12,7 +12,7 @@ Instructor: Neel Smith (revised [contact information, including link to **drop-i
 
 - welcome back! please [view this short video message from Prof. Smith](videos/welcome.mp4)
 - revised [overview of projects](projects/)
-- composite data sets for Ptolemy analysis will be linked here on Wednesday, March 25.
+- instructions and data sets for [Ptolemy analysis will be added here](labs/ptolemy/) on Wednesday, March 25.
 
 
 
@@ -24,7 +24,12 @@ Instructor: Neel Smith (revised [contact information, including link to **drop-i
 
 ## Group modules and projects
 
+
+- individual module:  [some basic skills](labs/analysis-basics/)
+- [group assignments](labs/)
 - [project guidelines](projects/)
+
+
 
 ## Staying in contact
 
@@ -38,7 +43,7 @@ If you can’t get online, you can [connect to group meetings or drop-in hours b
 
 ### Drop-in hours
 
--  link for [drop-in hours](https://holycross.zoom.us/j/728661510) (M-Th, 3:00-4:00 eastern times; meeting ID 728 661 510).  
+-  link for [drop-in hours](https://holycross.zoom.us/j/728661510) (M-Th, 3:00-4:00 eastern times; meeting ID `728 661 510`).  
 
 
 
