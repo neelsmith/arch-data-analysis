@@ -9,12 +9,9 @@ layout: page
 During the distance-learning phase of the course, we will use:
 
 - GroupMe for group messaging (optional):  you can [sign up for a class GroupMe here](https://web.groupme.com/join_group/58665869/1UrCvBEg)
-- Google Meet for conferencing: use [this link](https://meet.google.com/ojf-hqdm-hif) to join class Google Meets.
-
-Before you do, please check out:
-
-- [overview of participating in a Google Meet](../connect-to-meet/)
-- [Google Meet etiquette](../connect-to-meet/etiquette/)
+- Zoom for conferencing:
+    - use [this link](https://holycross.zoom.us/j/325720083) (meeting ID `325 720 083`) to join class Zoom meetings.
+    -  use [this link](https://holycross.zoom.us/j/728661510) (meeting ID `728 661 510`) for drop-in hours (M-Th, 3:00-4:00 eastern times).
 
 
 ## Basic software for managing digital data

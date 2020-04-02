@@ -10,16 +10,13 @@ Instructor: Neel Smith (revised [contact information, including link to **drop-i
 
 ## Announcements and reminders
 
-- welcome back! please [view this short video message from Prof. Smith](videos/welcome.mp4)
-- revised [overview of projects](projects/)
-- instructions and data sets for [Ptolemy analysis will be added here](labs/ptolemy/) on Wednesday, March 25.
-
-
+- instructions and data sets for [Ptolemy analysis](labs/ptolemy/)
+- some [publicly available archaeological data sets](open-datasets/) (in progress: suggestions/contributions welcome!)
 
 ## Course material
 
 - revised [syllabus](syllabus/) (including revised course requirements and grading specifications)
-- [schedule](schedule/). Class days labelled *group meet* will be times for all of us to use the Google Meet link below for a brief meet up. Class days labelled *drop-in workshop* will use the scheduled 9:30-10:45 time slot as optional Google Meets where you may bring questions and we can work together on assignments you’re working on.
+- [schedule](schedule/). Class days labelled *group meet* will be times for all of us to use the Google Meet link below for a brief meet up. Class days labelled *drop-in workshop* will use the scheduled 2:00 time slot as optional Google Meets where you may bring questions and we can work together on assignments you’re working on.
 
 
 ## Group modules and projects
