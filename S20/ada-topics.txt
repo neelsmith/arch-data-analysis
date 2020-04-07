@@ -10,18 +10,19 @@ What is archaeological data analysis?#
 ## Working with legacy data (Greek painted pottery)
 
 [Beazley's *Attic Black-Figure Vase Painters* and *Attic Red-Figure Vase Painters*](../assignments/beazley)#
-[Class field trip to WAM](../assignments/wam)#
+Trip to WAM cancelled
 
-[Introduction to geographic information systems](../gis)#
-[Analyzing composite data for Attic vase distribution](../assigments/vase_composites)#
+[Introduction to geographic information systems](../assignments/gis)#
+[Analyzing composite data for Attic vase distribution](../assignments/vase_composites)#
 
 ## Textual sources and spatial analysis (Ptolemy's catalog of the world)
 
 Ptolemy's *Geography*
-Scaling and aligning Ptolemy's data#**Thursday**: Jim Cahill (Ed Tech) available for tech help with Jupyter notebooks.
+[Class field trip to WAM](../assignments/wam)#
 
-Identifying spatial outliers
-Measuring settlement density
+[Scaling and aligning Ptolemy's data](../assignments/ptolemy1)#
+
+Identifying spatial outliers and measuring settlement density
 
 
 
@@ -30,32 +31,28 @@ Measuring settlement density
 *Spring break*
 *Spring break*
 
+Reviewing distribution of Attic vase painting
+[Completion of module 2](../assignments/module2/)
+
+Density and precision in Ptolemy's *Geography*
+Complete module 3
+
 
 ## Spatial networks (Greek coin hoards)
 
 The *Inventory of Greek Coin Hoards*#
 Mapping coin hoards with Google Earth
 
-
-TBA
-TBA
-
-
 ## Clustering data (How did rooms function in Pompeii?)
-
 
 Pompeiian rooms as archaeological contexts
 Using topic modelling to cluster data
 
-TBA
-TBA
 
 ## Exploring other topics
 
 Discussion of project proposals#
 *Easter break*
-
-
 
 Revisiting Roman imperial coinage
 Applying your skills to other data sets
@@ -63,7 +60,7 @@ Applying your skills to other data sets
 ## Project presentation and course review
 
 Presentations, 1#
-Presentations, 2
+Presentations, 2#
 
 Building a web site for your digital portfolio
 Course review

@@ -1,80 +1,180 @@
+
+
+## Two notes on Jupyter notebooks
+
+On mybinder:
+
+- Jupyter files list: `New` menu
+- In Jupyter notebook: `Help` menu
+
+
+---
+
+## Follow-up from last time
+
+
+
+- Complete submission for credit: when I can run your notebook from `mybinder.org` [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/nadimattia/clas299/master)
+- Courtesy request:  build your notebook on `mybinder.org` before I try to run it
+- New Jupyter notebook on [plotting bar charts](https://mybinder.org/v2/gh/neelsmith/scala-intro-ipynb/master?filepath=nbs%2Fplotting-bar-charts.ipynb)
+- Learn enough `git` to update/add new notebooks to your repository
+
+
+
+---
+
+
+## Overview of working with `git`
+
+
+
+---
+
+
+![git](https://imgs.xkcd.com/comics/git.png)
+
+---
+
+## One-time set up for your computer
+
+
+- `git config --global user.email "EMAIL_FOR_GITHUB"`
+- `git config --global user.name "YOUR REAL NAME"`
+
+
+
+---
+
+
+## One-time set up for each repository
+
+- (optional: check you're where you want to be: `pwd`)
+- `git clone REPOSITORY_URL`
+
+And if you want to start working: `cd REPOSITORY_NAME`
+
+(e.g., `cd clas299`)
+
+
+---
+
+## Regular work pattern
+
+- `git pull`
+-  do some work
+- `git add FILENAME`
+- `git commit -m "MESSAGE"`
+- `git push`
+
+---
+
+![commit messages](https://imgs.xkcd.com/comics/git_commit.png)
+
+---
+
 # Approaches to Greek painted pottery
 
 
 ---
 
-Ted Underwood:
+## What data do we need to study trade?
 
-My First Book Report on Computers:
-"In conclusion, there are many fun things we can do with computers. Most of them are not even hard! It only takes work—specifically, a bottomless abyss of ceaseless detail work that you never thought possible in your worst nightmares."
+---
+
+## What can we learn from Beazleyan method?
 
 
 ---
 
-## Coins
-
-- pre-weighed quantity of *metal*
-- in a system of related *denominations*
-- with an identified issuing *authority*
-
----
-
-
-![Production](https://exhibitions.kelsey.lsa.umich.edu/less-than-perfect/img/coin_punch2.jpg)
-
----
-
-
-## Other numismatic terms
-
-- *obverse* / *reverse* : the two sides of a coin. *Reverse* is the side that takes the hammer blow.
-- *type* : image
-- *legend* : text
-- *issue*: production of same denomination using same type, legend
-- *hoard*: co-occurrence of two or more coins
+## Archaeological and historical sources
 
 
 ---
 
-# Types of records
+## Sourcing
 
-- catalog of issues (production)
-- inventory of hoards (find spots)
-- collections
-
----
-
-## [`nomisma.org` datasets](http://nomisma.org/datasets)
+- evidence of language vs.
+- find spot
 
 
 ---
 
-# Hoard records
+Brit.Mus. 1848, 0801.1
 
-- *Coin Hoards of Roman Republic*
-- *Inventory of Greek Coin Hoards*
-
----
-
-# Catalogs of issues
-
-- *Coinage of the Roman Republic Online*
-- *Online Coins of the Roman Empire*
-- *PELLA* (Maedonian royal coinage)
-- *Ptolemaic Coins Online*
+![](https://www.bmimages.com/pr/190243902/BMImages_01613147237_preview.jpg)
 
 ---
 
+Cerveteri:
 
-# How should we document an issue?
+![](https://upload.wikimedia.org/wikipedia/commons/a/ae/Cerveteri%2C_necropoli_della_banditaccia%2C_via_sepolcrale_principale%2C_01.jpg)
 
 ---
 
-# Online Coins of the Roman Empire ([OCRE](http://numismatics.org/ocre/))
+Interior:
+
+![](https://upload.wikimedia.org/wikipedia/commons/0/01/Banditaccia_Tomba_Dei_Capitelli.jpg)
+
+---
+
+## Signatures
+
+- "X made it" (ἐποίησεν)
+- "X painted it" (ἔγραψεν)
+
+---
+
+Nikosthenes (signed), in RISD
+
+![](https://risdmuseum.org/sites/default/files/styles/scaled_1324_w/museumplus/35888.jpg?itok=27cKZvwx)
 
 
-- "Linked Open Data" project (LOD)
-- RDF format (available converted to delimited text)
+
+
+
+---
+
+
+## Pioneer Group
+
+
+- What shapes do they paint?
+- How often do they sign?
+- What subjects do they choose?
+- What techniques do they adopt?
+
+
+---
+
+
+Euphronios
+
+![]
+(https://upload.wikimedia.org/wikipedia/commons/5/59/Euphronios_krater_side_A_MET_L.2006.10.jpg)
+
+---
+
+![Berlin](https://upload.wikimedia.org/wikipedia/commons/6/67/Berl%C3%ADn_Euphronios_02.JPG)
+
+
+---
+
+## From Beazley to digital
+
+---
+
+
+## Ted Underwood tweet, "My First Book Report on Computers"
+
+
+#### In conclusion, there are many fun things we can do with computers.
+
+#### Most of them are not even hard!
+
+#### It only takes work—specifically,
+
+### **a bottomless abyss of ceaseless detail work that you never thought possible in your worst nightmares**.
+
 
 
 ---
