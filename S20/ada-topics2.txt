@@ -22,7 +22,7 @@ Designing a course project (group meet)
 
 *Easter break*
 
-Using topic modelling to cluster data (group meet)
+[Using topic modelling to cluster data](../assignments/tm/) (group meet)
 Pompeiian rooms as archaeological contexts (drop-in workshop)
 
 
