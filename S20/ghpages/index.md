@@ -10,6 +10,8 @@ Instructor: Neel Smith (revised [contact information, including link to **drop-i
 
 ## Announcements and reminders
 
+- assignment for [analysis basics and review](labs/analysis-basics/) now posted.
+- [introduction to topic modelling posted](assignments/tm/)
 - instructions and data sets for [Ptolemy analysis](labs/ptolemy/)
 - some [publicly available archaeological data sets](open-datasets/) (in progress: suggestions/contributions welcome!)
 
@@ -22,7 +24,7 @@ Instructor: Neel Smith (revised [contact information, including link to **drop-i
 ## Group modules and projects
 
 
-- individual module:  [some basic skills](labs/analysis-basics/)
+- individual module:  [some basic skills](labs/analysis-basics/) (Due May 6)
 - [group assignments](labs/)
 - [project guidelines](projects/)
 
