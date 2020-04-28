@@ -10,6 +10,9 @@ Instructor: Neel Smith (revised [contact information, including link to **drop-i
 
 ## Announcements and reminders
 
+
+- Links to [sign up for consultations added to course schedule](schedule/)
+- Jupyter notebook with example of [topic modelling using Spark LDA](https://mybinder.org/v2/gh/neelsmith/lda-ipynb/master?filepath=nbs%2Fspark-lda.ipynb) [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/neelsmith/lda-ipynb/master?filepath=nbs%2Fspark-lda.ipynb)
 - assignment for [analysis basics and review](labs/analysis-basics/) now posted.
 - [introduction to topic modelling posted](assignments/tm/)
 - instructions and data sets for [Ptolemy analysis](labs/ptolemy/)
